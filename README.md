@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikumarjada&label=Profile%20views&color=0e75b6&style=flat" alt="sasikumarjada" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasikumarjada" alt="sasikumarjada" /></a> </p>
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/43e6626c-bb10-4bd5-bf14-bb6dc99722bf" />
+
 
 - 💬 Ask me about ****DevOps, DevSecOps, CI/CD, Kubernetes, Terraform, AWS, and monitoring****
 
