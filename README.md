@@ -30,7 +30,7 @@
   <a href="https://bold.pro/my/jada-sasikumar" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/sasikumariada" target="_blank">
+  <a href="https://github.com/Sasikumarjada" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
