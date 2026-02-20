@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sasikumar+Jada;DevSecOps+Engineer;Cloud+Native+Expert;5%2B+Years+of+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sasikumar+Jada;DevSecOps Engineer;Cloud+Native+Expert; alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -114,64 +114,6 @@
 
 ---
 
-## 📈 **IMPACT METRICS & ACHIEVEMENTS**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/15+-Production_Deployments-2EA44F?style=for-the-badge"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/99.99%-Uptime_Achieved-2EA44F?style=for-the-badge"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/60%-Cost_Optimization-2EA44F?style=for-the-badge"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/200%2B-Security_Issues_Fixed-2EA44F?style=for-the-badge"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/70%-Faster_Deployments-2EA44F?style=for-the-badge"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/50%2B-Team_Members_Trained-2EA44F?style=for-the-badge"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 **REAL-TIME ACTIVITY DASHBOARD**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sasikumariada&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20Contribution%20Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sasikumariada&theme=midnight-purple&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumariada&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" />
-  <img width="52%" src="https://github-profile-trophy.vercel.app/?username=sasikumariada&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-## 📝 **LATEST BLOG POSTS & TECH WRITINGS**
-<!-- BLOG-POST-LIST:START -->
-- [How I Reduced AWS Costs by 60% Using Terraform](https://medium.com/@sasukumarjada2004/aws-cost-optimization-terraform)
-- [Implementing DevSecOps: A Practical Guide](https://medium.com/@sasukumarjada2004/devsecops-practical-guide)
-- [Kubernetes Networking Deep Dive](https://medium.com/@sasukumarjada2004/k8s-networking)
-- [GitOps with ArgoCD: Best Practices](https://medium.com/@sasukumarjada2004/gitops-argocd)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-
 
 ## 💡 **WHAT I CAN BRING TO YOUR TEAM**
 
@@ -232,8 +174,6 @@
   <img src="https://komarev.com/ghpvc/?username=sasikumariada&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="profile-views"/>
   
   <h4>⚡ "Automate everything, secure everything, monitor everything." ⚡</h4>
-  
-  <img src="https://raw.githubusercontent.com/sasikumariada/sasikumariada/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   
   <br/>
   
