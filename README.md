@@ -1,24 +1,85 @@
-[![MasterHead](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in)
+<!-- sasikumariada/sasikumariada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<h1 align="center">Hi 👋, I'm Sasikumar Jada</h1>
-<h3 align="center">A passionate DevSecOps Engineer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sasikumar+Jada!;" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikumarjada&label=Profile%20views&color=0e75b6&style=flat" alt="sasikumarjada" /> </p>
+<h3 align="center">A passionate DevSecOps Engineer from India 🇮🇳</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasikumarjada" alt="sasikumarjada" /></a> </p>
+<br/>
 
-- 💬 Ask me about **Devops & AWS**
+<div align="center">
+ 
+ 🔭 I'm currently working on **Cloud Native Projects**
+ 
+ 🌱 I'm currently learning **Advanced Kubernetes & Security Scanning Tools**
+ 
+ 💬 Ask me about **DevOps, AWS, Terraform, CI/CD... or anything [here](https://github.com/sasikumariada/sasikumariada/issues)**
+ 
+ ⚡ Fun fact **I love automating everything, even my coffee machine! ☕**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
+<div align="center"> 
+  <a href="mailto:sasukumarjada2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/sasukumar-jada-1640a7235" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://sasikumariada.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/sasikumariada" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasikumarjada&show_icons=true&locale=en&layout=compact" alt="sasikumarjada" /></p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,prometheus,grafana" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,python,bash,nginx,mysql,mongodb" /><br>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasikumarjada&show_icons=true&locale=en" alt="sasikumarjada" /></p>
+<br/>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasikumarjada&" alt="sasikumarjada" /></p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sasikumariada/sasikumariada/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=sasikumariada&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sasikumariada&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sasikumariada&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+
+## 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+```text
+YAML       4 hrs 30 mins   ████████████▓░░░░░░░░░░░░   50.5% 
+HCL        2 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.3% 
+Bash       1 hr 30 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.9% 
+Markdown   0 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   7.3% 
