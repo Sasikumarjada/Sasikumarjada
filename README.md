@@ -10,7 +10,6 @@
 <h3 align="center">
   <img src="https://img.shields.io/badge/DevSecOps-Engineer-6A5ACD?style=for-the-badge&logo=devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-Community_Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-CKA_Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </h3>
 
 <div align="center">
