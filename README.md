@@ -14,20 +14,14 @@
 </h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/sasukumar-jada-1640a7235">
+  <a href="https://www.linkedin.com/in/sasikumar-jada/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sasukumarjada2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://sasikumariada.github.io">
+  <a href="https://bold.pro/my/jada-sasikumar">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@sasukumarjada2004">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/sasikumariada">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
 </div>
 
@@ -37,9 +31,6 @@
 <div align="center">
   <a href="https://github.com/sasikumariada?tab=repositories">
     <img src="https://img.shields.io/badge/OPEN_TO_WORK-00FF00?style=for-the-badge&logo=rocket&logoColor=black&labelColor=00FF00"/>
-  </a>
-  <a href="https://calendly.com/sasukumarjada2004/30min">
-    <img src="https://img.shields.io/badge/SCHEDULE_INTERVIEW-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white"/>
   </a>
 </div>
 
@@ -56,7 +47,7 @@
 - **Infrastructure as Code** (Terraform, CloudFormation)
 - **Container Orchestration** (Kubernetes, EKS)
 - **CI/CD Pipeline Design** (Jenkins, GitHub Actions)
-- **Security Automation** (SonarQube, Trivy, Snyk)
+- **Security Automation** (SonarQube, Trivy)
 - **Monitoring & Observability** (Prometheus, Grafana, ELK)
 
 ---
@@ -72,70 +63,32 @@
     <td width="50%">
       <h3 align="center">🏗️ Multi-Tier AWS Architecture</h3>
       <div align="center">
-        <a href="https://github.com/sasikumariada/aws-three-tier-architecture" target="_blank">
+        <a href="https://github.com/Sasikumarjada/Java-Application-Deployment" target="_blank">
           <img src="https://img.shields.io/badge/-VIEW_PROJECT-6A5ACD?style=for-the-badge"/>
         </a>
         <p>
-          <strong>Terraform | AWS | Docker | Jenkins</strong>
+          <strong>Terraform | AWS | Docker | Jenkins | EKS| Prometheus</strong>
         </p>
         <p>
           • Deployed highly available 3-tier application on AWS ECS Fargate<br/>
           • Implemented Infrastructure as Code with Terraform modules<br/>
           • Achieved 99.99% uptime with auto-scaling & multi-AZ setup<br/>
-          • <strong>⭐ 45+ stars | 23 forks</strong>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🔐 DevSecOps Pipeline</h3>
+      <h3 align="center">🔐 Microservice Project</h3>
       <div align="center">
-        <a href="https://github.com/sasikumariada/devsecops-pipeline" target="_blank">
+        <a href="https://github.com/Sasikumarjada/microservices-project" target="_blank">
           <img src="https://img.shields.io/badge/-VIEW_PROJECT-FF6B6B?style=for-the-badge"/>
         </a>
         <p>
-          <strong>Jenkins | SonarQube | Trivy | OWASP</strong>
+          <strong>Jenkins | SonarQube | Trivy | Docker | Kubernetes</strong>
         </p>
         <p>
-          • Built security-integrated CI/CD pipeline scanning for vulnerabilities<br/>
-          • Integrated SAST/DAST tools catching 200+ security issues early<br/>
-          • Reduced security debt by 60% in first month<br/>
-          • <strong>⭐ 38 stars | 15 forks</strong>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">☸️ Kubernetes GitOps</h3>
-      <div align="center">
-        <a href="https://github.com/sasikumariada/gitops-argocd" target="_blank">
-          <img src="https://img.shields.io/badge/-VIEW_PROJECT-00C7B7?style=for-the-badge"/>
-        </a>
-        <p>
-          <strong>ArgoCD | Kubernetes | Helm | Prometheus</strong>
-        </p>
-        <p>
-          • Implemented GitOps workflow with ArgoCD for 15+ microservices<br/>
-          • Reduced deployment time from 45min to 5min<br/>
-          • Created reusable Helm charts for standard deployments<br/>
-          • <strong>⭐ 32 stars | 12 forks</strong>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Monitoring Stack</h3>
-      <div align="center">
-        <a href="https://github.com/sasikumariada/observability-stack" target="_blank">
-          <img src="https://img.shields.io/badge/-VIEW_PROJECT-FFA500?style=for-the-badge"/>
-        </a>
-        <p>
-          <strong>Prometheus | Grafana | Loki | Tempo</strong>
-        </p>
-        <p>
-          • Deployed complete observability stack for microservices<br/>
-          • Created custom dashboards monitoring 50+ metrics<br/>
-          • Set up intelligent alerting reducing MTTR by 70%<br/>
-          • <strong>⭐ 28 stars | 10 forks</strong>
+          • Automated deployment pipeline reducing release time from 3 days to 2 hours<br/>
+          • Integrated security scanning catching 95% of vulnerabilities pre-production<br/>
+          • Implemented GitOps with ArgoCD for declarative deployments<br/>
         </p>
       </div>
     </td>
@@ -218,30 +171,7 @@
 
 ---
 
-## 🤝 **COMMUNITY CONTRIBUTIONS & OPEN SOURCE**
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <b>🏅 HashiCorp Terraform Modules</b> - Contributed 5+ modules
-      </td>
-      <td>
-        <b>🏅 Kubernetes SIG Contrib</b> - Documentation improvements
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🏅 AWS Community Builder</b> - Active since 2024
-      </td>
-      <td>
-        <b>🏅 DevOps Meetup Speaker</b> - 3 talks in 2025
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 💡 **WHAT I CAN BRING TO YOUR TEAM**
 
@@ -263,7 +193,7 @@
 <div align="center">
   <h3>I'm actively looking for DevSecOps opportunities!</h3>
   
-  <a href="https://linkedin.com/in/sasukumar-jada-1640a7235">
+  <a href="https://www.linkedin.com/in/sasikumar-jada/">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
@@ -271,9 +201,6 @@
     <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://calendly.com/sasukumarjada2004/30min">
-    <img src="https://img.shields.io/badge/Schedule_a_Chat-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
-  </a>
   
   <br/><br/>
   
@@ -284,18 +211,13 @@
     **SASIKUMAR JADA**
     DevSecOps Engineer
     
-    **EXPERIENCE:**
-    • Senior DevOps Engineer @ TechCorp (2023-Present)
-    • Cloud Engineer @ InnovateLabs (2021-2023)
-    • Systems Administrator @ StartupHub (2020-2021)
-    
     **CERTIFICATIONS:**
     • AWS Certified Solutions Architect - Professional
-    • Certified Kubernetes Administrator (CKA)
-    • HashiCorp Certified: Terraform Associate
+    • Python Programming - Kaggle
+    • DevSecops Certified - Frontlines media edutech
     
     **EDUCATION:**
-    • B.Tech in Computer Science, XYZ University (2020)
+    • B.Tech in AIML, Nri institute of technology (2025)
     
   </details>
 </div>
@@ -315,5 +237,5 @@
   
   <br/>
   
-  **Last Updated:** February 2026 | **Open to opportunities worldwide 🌎**
+  **Open to opportunities worldwide 🌎**
 </div>
