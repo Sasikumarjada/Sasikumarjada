@@ -1,180 +1,431 @@
-<!-- RECRUITER-FOCUSED DEVOPS ENGINEER PROFILE -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sasikumar+Jada;DevSecOps+Engineer;Cloud+Native+Expert" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/DevSecOps-Engineer-6A5ACD?style=for-the-badge&logo=devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Community_Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</h3>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/sasikumar-jada/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sasukumarjada2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://bold.pro/my/jada-sasikumar">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</div>
 
-<br/>
+# ⚡ SASIKUMAR JADA
 
-<!-- QUICK HIRE ME BANNER -->
-<div align="center">
-  <a href="https://github.com/sasikumariada?tab=repositories">
-    <img src="https://img.shields.io/badge/OPEN_TO_WORK-00FF00?style=for-the-badge&logo=rocket&logoColor=black&labelColor=00FF00"/>
-  </a>
+### `DevSecOps Engineer` · `Cloud Security` · `Cloud Infrastructure` · `Security Automation`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Building+Secure+Cloud-Native+Infrastructure;Automating+CI%2FCD+%26+Security+Workflows;Infrastructure+as+Code+%7C+Kubernetes+%7C+AWS;DevSecOps+%7C+Cloud+Security+%7C+Automation;Secure.+Automate.+Monitor.+Scale." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Sasikumarjada&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Sasikumarjada?label=FOLLOWERS&style=for-the-badge&color=00ff9c" />
+<img src="https://img.shields.io/github/stars/Sasikumarjada?label=STARS&style=for-the-badge&color=00ff9c" />
+
 </div>
 
 ---
 
-## 🚀 **PROFESSIONAL SUMMARY**
+# 🧠 `whoami`
 
-> *"Automation-focused DevSecOps Engineer with proven experience in architecting and implementing cloud-native solutions. Passionate about building secure, scalable infrastructure and optimizing CI/CD pipelines for high-velocity teams."*
+```bash
+┌──(sasikumar㉿devsecops)-[~]
+└─$ whoami
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+Sasikumar Jada
 
-### 🏆 **CORE COMPETENCIES**
-- **Cloud Architecture** (AWS/Azure)
-- **Infrastructure as Code** (Terraform, CloudFormation)
-- **Container Orchestration** (Kubernetes, EKS)
-- **CI/CD Pipeline Design** (Jenkins, GitHub Actions)
-- **Security Automation** (SonarQube, Trivy)
-- **Monitoring & Observability** (Prometheus, Grafana, ELK)
+ROLE        : DevSecOps Engineer
+SPECIALITY  : Cloud Infrastructure & Security Automation
+FOCUS       : AWS • Kubernetes • CI/CD • IaC
+AUTOMATION  : Python • Bash
+SECURITY    : SonarQube • Trivy • DevSecOps
+MONITORING  : Prometheus • Grafana • ELK
+OS          : Linux
+STATUS      : Building • Learning • Automating
+```
+
+> **Automation-focused DevSecOps Engineer with hands-on experience building cloud-native infrastructure, automating CI/CD workflows, implementing security controls, and improving system reliability. Passionate about secure infrastructure, automation, observability, and scalable cloud engineering.**
 
 ---
 
-## 💼 **FEATURED PROJECTS SHOWCASE**
+# ⚔️ CORE COMPETENCIES
 
 <div align="center">
-  <h3>🔧 REAL-WORLD PRODUCTION PROJECTS</h3>
+
+| ☁️ CLOUD |   🏗️ INFRASTRUCTURE   |    ☸️ CONTAINERS   |
+| :------: | :--------------------: | :----------------: |
+|    AWS   |        Terraform       |     Kubernetes     |
+|   Azure  |     CloudFormation     |     Amazon EKS     |
+|    EC2   | Infrastructure as Code |       Docker       |
+|    IAM   |       Automation       | Container Security |
+
+|       🔄 CI/CD      |    🛡️ SECURITY   | 📊 OBSERVABILITY |
+| :-----------------: | :---------------: | :--------------: |
+|       Jenkins       |     SonarQube     |    Prometheus    |
+|    GitHub Actions   |       Trivy       |      Grafana     |
+|         Git         |     DevSecOps     |        ELK       |
+| Pipeline Automation | Security Scanning |    CloudWatch    |
+
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏗️ Multi-Tier AWS Architecture</h3>
-      <div align="center">
-        <a href="https://github.com/Sasikumarjada/Java-Application-Deployment" target="_blank">
-          <img src="https://img.shields.io/badge/-VIEW_PROJECT-6A5ACD?style=for-the-badge"/>
-        </a>
-        <p>
-          <strong>Terraform | AWS | Docker | Jenkins | EKS| Prometheus</strong>
-        </p>
-        <p>
-          • Deployed highly available 3-tier application on AWS ECS Fargate<br/>
-          • Implemented Infrastructure as Code with Terraform modules<br/>
-          • Achieved 99.99% uptime with auto-scaling & multi-AZ setup<br/>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 Microservice Project</h3>
-      <div align="center">
-        <a href="https://github.com/Sasikumarjada/microservices-project" target="_blank">
-          <img src="https://img.shields.io/badge/-VIEW_PROJECT-FF6B6B?style=for-the-badge"/>
-        </a>
-        <p>
-          <strong>Jenkins | SonarQube | Trivy | Docker | Kubernetes</strong>
-        </p>
-        <p>
-          • Automated deployment pipeline reducing release time from 3 days to 2 hours<br/>
-          • Integrated security scanning catching 95% of vulnerabilities pre-production<br/>
-          • Implemented GitOps with ArgoCD for declarative deployments<br/>
-        </p>
-      </div>
-    </td>
-  </tr>
+---
+
+# 🛠️ TECHNOLOGY STACK
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes" />
+</p>
+
+### 🔄 DevOps & CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,github,git,linux,bash" />
+</p>
+
+### 💻 Development & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,flask" />
+</p>
+
+### 🛡️ Security & Observability
+
+<p>
+
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+</p>
+
+---
+
+# 🧩 TECHNICAL EXPERTISE
+
+| Domain                         | Technologies                 | Level |
+| ------------------------------ | ---------------------------- | :---: |
+| ☁️ **Cloud Platforms**         | AWS, Azure, EC2, IAM, EKS    | ⚡⚡⚡⚡⚡ |
+| 🏗️ **Infrastructure as Code** | Terraform, CloudFormation    | ⚡⚡⚡⚡⚡ |
+| ☸️ **Container Orchestration** | Kubernetes, EKS, Docker      | ⚡⚡⚡⚡⚡ |
+| 🔄 **CI/CD**                   | Jenkins, GitHub Actions, Git | ⚡⚡⚡⚡⚡ |
+| 🛡️ **Security Automation**    | SonarQube, Trivy, DevSecOps  | ⚡⚡⚡⚡⚡ |
+| 📊 **Monitoring**              | Prometheus, Grafana, ELK     |  ⚡⚡⚡⚡ |
+| 🐍 **Automation**              | Python, Bash                 | ⚡⚡⚡⚡⚡ |
+| 🐧 **Operating Systems**       | Linux / Unix                 |  ⚡⚡⚡⚡ |
+| 🌐 **Networking**              | TCP/IP, DNS, HTTP            |  ⚡⚡⚡⚡ |
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+## 🔐 DevSecOps CI/CD Security Pipeline
+
+```text
+Developer
+    │
+    ▼
+   Git
+    │
+    ▼
+ Jenkins / GitHub Actions
+    │
+    ├──────────────► SonarQube
+    │                    │
+    │                 Code Scan
+    │
+    ├──────────────► Trivy
+    │                    │
+    │              Vulnerability Scan
+    │
+    ▼
+ Docker Build
+    │
+    ▼
+ Kubernetes / EKS
+    │
+    ▼
+ Production
+    │
+    ▼
+ Prometheus + Grafana
+```
+
+**Stack:** `Python` `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `SonarQube` `Trivy` `Prometheus` `Grafana`
+
+### What I built
+
+* Automated CI/CD deployment workflows.
+* Integrated static code analysis using **SonarQube**.
+* Implemented container vulnerability scanning using **Trivy**.
+* Containerized applications using Docker.
+* Deployed workloads to Kubernetes.
+* Integrated monitoring and observability.
+* Automated repetitive infrastructure and deployment tasks.
+
+---
+
+# ☁️ AWS EKS + Terraform Infrastructure
+
+```text
+                 ┌───────────────┐
+                 │    Terraform  │
+                 └───────┬───────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │       AWS       │
+                │                 │
+                │   VPC / IAM     │
+                │       │         │
+                │       ▼         │
+                │      EKS        │
+                │       │         │
+                │       ▼         │
+                │    Workloads    │
+                └────────┬────────┘
+                         │
+                         ▼
+                Prometheus / Grafana
+```
+
+**Stack:** `AWS` `Terraform` `EKS` `IAM` `EC2` `CloudWatch` `Python`
+
+* Provisioned cloud infrastructure using Terraform.
+* Worked with Amazon EKS infrastructure.
+* Automated infrastructure workflows with Python.
+* Implemented monitoring and observability.
+* Worked with scalable cloud infrastructure patterns.
+* Focused on infrastructure reliability and optimization.
+
+---
+
+# 📊 MONITORING & OBSERVABILITY
+
+```text
+Applications
+     │
+     ▼
+ Infrastructure
+     │
+     ├──────► Metrics
+     │
+     ├──────► Logs
+     │
+     └──────► Performance Data
+                │
+                ▼
+          ┌─────────────┐
+          │ Prometheus  │
+          └──────┬──────┘
+                 │
+                 ▼
+          ┌─────────────┐
+          │   Grafana   │
+          └──────┬──────┘
+                 │
+                 ▼
+        Detect → Analyze → Improve
+```
+
+---
+
+# 💡 WHAT I BRING TO A TEAM
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ DAY 1 IMPACT
+
+* Automate repetitive workflows
+* Improve CI/CD pipelines
+* Implement security scanning
+* Troubleshoot infrastructure issues
+* Improve deployment reliability
+
+</td>
+
+<td width="50%">
+
+### 🚀 LONG-TERM VALUE
+
+* Build scalable infrastructure
+* Establish DevSecOps practices
+* Create reusable automation
+* Improve cloud efficiency
+* Strengthen security controls
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ **TECHNICAL EXPERTISE MATRIX**
+# 🔥 ENGINEERING MINDSET
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│       BUILD → AUTOMATE → SECURE → MONITOR         │
+│                                                    │
+│                    ↓                               │
+│                                                    │
+│              CONTINUOUS IMPROVEMENT                │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+### My approach
+
+**01 — Automate**
+
+> If a task is repetitive, automate it.
+
+**02 — Secure**
+
+> Security should be integrated into the development lifecycle.
+
+**03 — Observe**
+
+> You can't improve what you can't monitor.
+
+**04 — Scale**
+
+> Infrastructure should be designed for growth.
+
+**05 — Improve**
+
+> Every deployment should make the system better.
+
+---
+
+# 📈 GITHUB ANALYTICS
 
 <div align="center">
 
-| Category | Technologies | Proficiency |
-|:--------:|:------------:|:-----------:|
-| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ⚡⚡⚡⚡⚡ |
-| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazonaws&logoColor=white) | ⚡⚡⚡⚡⚡ |
-| **Container Orchestration** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat&logo=amazonaws&logoColor=white) | ⚡⚡⚡⚡⚡ |
-| **CI/CD** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat&logo=githubactions&logoColor=white) | ⚡⚡⚡⚡⚡ |
-| **Security Tools** | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=white) | ⚡⚡⚡⚡⚡ |
-| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) | ⚡⚡⚡⚡⚡ |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sasikumarjada&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasikumarjada&layout=compact&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
 ---
 
-
-## 💡 **WHAT I CAN BRING TO YOUR TEAM**
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
-  
-| ✅ **Day 1 Impact** | ✅ **Long-term Value** |
-|:--------------------|:-----------------------|
-| Optimize existing CI/CD pipelines | Build scalable infrastructure |
-| Implement security scanning | Mentor junior engineers |
-| Reduce cloud costs | Establish best practices |
-| Improve deployment frequency | Create reusable automation |
+
+<img src="https://streak-stats.demolab.com?user=Sasikumarjada&theme=dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 📫 **LET'S CONNECT & COLLABORATE**
+# 🐍 CONTRIBUTION GRAPH
 
 <div align="center">
-  <h3>I'm actively looking for DevSecOps opportunities!</h3>
-  
-  <a href="https://www.linkedin.com/in/sasikumar-jada/">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:sasukumarjada2004@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  
-  <br/><br/>
-  
-  <details>
-    <summary><b>📄 Click to View Quick Resume</b></summary>
-    <br/>
-    
-    **SASIKUMAR JADA**
-    DevSecOps Engineer
-    
-    **CERTIFICATIONS:**
-    • AWS Certified Solutions Architect - Professional
-    • Python Programming - Kaggle
-    • DevSecops Certified - Frontlines media edutech
-    
-    **EDUCATION:**
-    • B.Tech in AIML, Nri institute of technology (2025)
-    
-  </details>
+
+<img src="https://raw.githubusercontent.com/Sasikumarjada/Sasikumarjada/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🎓 CERTIFICATIONS
+
+<div align="center">
+
+| Certification                                       | Provider                 |
+| --------------------------------------------------- | ------------------------ |
+| ☁️ AWS Certified Solutions Architect – Professional | AWS                      |
+| 🐍 Python Programming                               | Kaggle                   |
+| 🛡️ DevSecOps Certification                         | Frontlines Media Edutech |
+
+</div>
+
+---
+
+# 🎓 EDUCATION
+
+### 🎓 B.Tech — Artificial Intelligence & Machine Learning
+
+**NRI Institute of Technology · 2025**
+
+Focus Areas:
+
+`Artificial Intelligence` · `Machine Learning` · `Python` · `Cloud Computing` · `Data Science`
+
+---
+
+# 🎯 CURRENTLY BUILDING
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                 CURRENT MISSION                      ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  ☁️ Cloud Infrastructure                             ║
+║  🛡️ DevSecOps Automation                             ║
+║  🔐 Cloud Security                                   ║
+║  ☸️ Kubernetes & EKS                                 ║
+║  🏗️ Infrastructure as Code                           ║
+║  🔄 CI/CD Automation                                 ║
+║  📊 Monitoring & Observability                        ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🌎 OPEN TO OPPORTUNITIES
+
+<div align="center">
+
+### `DevSecOps Engineer`
+
+### `Cloud Security Engineer`
+
+### `Cloud Engineer`
+
+### `DevOps Engineer`
+
+### `Security Automation Engineer`
+
+### `Infrastructure Engineer`
+
+<br>
+
+**🌎 Open to opportunities worldwide**
+
+</div>
+
+---
+
+# 📫 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jadasasikumar">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/Sasikumarjada">
+
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="mailto:sasikumarjada2004@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="400"/>
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=sasikumariada&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="profile-views"/>
-  
-  <h4>⚡ "Automate everything, secure everything, monitor everything." ⚡</h4>
-  
-  <br/>
-  
-  **Open to opportunities worldwide 🌎**
+
+### ⚡ `SECURE • AUTOMATE • MONITOR • SCALE`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=100&section=footer"/>
+
 </div>
